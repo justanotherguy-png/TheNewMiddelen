@@ -5,4 +5,16 @@
         "uniques": ["Gain [20] [Culture]"],
         "color": "#cf8ff7"
     }
+    {
+        "name": "discover treasure",
+        "notification": "We have discovered treasures in the ruins! (+20 gold)",
+        "uniques": ["Gain [20] [Gold]"],
+        "color": "#cf8ff7"
+    }
+    {
+        "name": "discover treasure",
+        "notification": "We have discovered religious artifacts in the ruins! (+20 faith)",
+        "uniques": ["Gain [20] [faith]"],
+        "color": "#cf8ff7"
+    }
 ]
