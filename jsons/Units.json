@@ -80,4 +80,15 @@
 		"uniques": [""]
 		"requiredTech": "Agriculture II",
 	}
+	{
+		"name": "Handgunners",
+		"unitType": "Gunners",
+		"movement": 1,
+		"strength": 5,
+		"rangedStrength": 12,
+		"range": 2,
+		"cost": 125,
+		"uniques": [""]
+		"requiredTech": "Metalworking III",
+	}
 ]
