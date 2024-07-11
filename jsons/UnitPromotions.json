@@ -1,0 +1,9 @@
+[
+  {
+		"name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Swords","Spears","Missiles","Archers","Handguns","Siege","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+        "row": 0,
+        "column": 0
+    },
+]
