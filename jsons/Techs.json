@@ -61,4 +61,192 @@
 
 		]
 	},
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Building II",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Farming II",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Hunting II",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in hunting & trapping methods."
+			},
+			{
+				"name": "Metalworking II",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring II",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization II",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Building III",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Farming III",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Hunting III",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in hunting & trapping methods."
+			},
+			{
+				"name": "Metalworking III",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring III",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization III",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 175,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Building IV",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Farming IV",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Hunting IV",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in hunting & trapping methods."
+			},
+			{
+				"name": "Metalworking IV",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring IV",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization IV",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Ancient era",
+		"techCost": 275,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Building V",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Farming V",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Hunting V",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in hunting & trapping methods."
+			},
+			{
+				"name": "Metalworking V",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring V",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization V",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
 ]
