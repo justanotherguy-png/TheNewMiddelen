@@ -4,7 +4,39 @@
         "movementType": "Land"
     },
     {
-        "name": "Infantry",
+        "name": "Swords",
+        "movementType": "Land"
+    }
+    {
+        "name": "Spears",
+        "movementType": "Land"
+    }
+    {
+        "name": "Missiles",
+        "movementType": "Land"
+    }
+    {
+        "name": "Bows",
+        "movementType": "Land"
+    }
+    {
+        "name": "Handguns",
+        "movementType": "Land"
+    }
+    {
+        "name": "Siege",
+        "movementType": "Land"
+    }
+    {
+        "name": "Mounted Melee",
+        "movementType": "Land"
+    }
+    {
+        "name": "Mounted Bows",
+        "movementType": "Land"
+    }
+    {
+        "name": "Mounted Missiles",
         "movementType": "Land"
     }
     
