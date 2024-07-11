@@ -1,7 +1,7 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "Chiefdom",
+		"leaderName": "Kein",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
@@ -13,8 +13,8 @@
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["+30% Strength when fighting City-State units and cities", "[+2] Movement <for [Armored] units>"],
+		"uniqueName": "Pagans",
+		"uniques": [],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
