@@ -10,7 +10,7 @@
 				"name": "Settlement",
 				"row": 6,
 				"quote": "Where everything starts.",
-				"uniques": ["Starting tech"]
+				"uniques": ["Starting tech","Enables conversion of city production to [Gold]"]
 			}
     ]
   }
