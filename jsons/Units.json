@@ -1,9 +1,15 @@
 [
     {
-        "name": "Settler",
+        "name": "Settlers",
         "unitType": "Civilian",
         "movement": 2,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
+    },
+	{
+        "name": "Merchants",
+        "unitType": "Civilian",
+        "movement": 2,
+        "uniques": ["<by consuming this unit>"]
     },
 	{
 		"name": "Militia Guard",
