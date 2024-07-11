@@ -7,4 +7,35 @@
         "RGB": [0, 163, 0],
         "uniques": []
     }
+{
+		"name": "Desert",
+		"type": "Land",
+		"movementCost": 1,
+        "RGB": [0, 100, 0],
+        "uniques": []
+    }
+	{
+		"name": "Coast",
+		"type": "Land",
+		"movementCost": 1,
+		"food": 2,
+        "RGB": [0, 50, 0],
+        "uniques": []
+    }
+	{
+		"name": "Sea",
+		"type": "Water",
+		"movementCost": 1,
+		"food": 1,
+        "RGB": [0, 2, 0],
+        "uniques": []
+    }
+	{
+		"name": "Ocean",
+		"type": "Water",
+		"movementCost": 1,
+		"food": 1,
+        "RGB": [0, 10, 0],
+        "uniques": []
+    }
 ]
