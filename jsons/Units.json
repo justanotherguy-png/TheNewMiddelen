@@ -5,14 +5,22 @@
         "movement": 2,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
-    {
-		"name": "Rifleman",
+	{
+		"name": "Militia Guard",
 		"unitType": "Infantry",
-		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
+		"movement": 1,
+		"strength": 4,
 		"cost": 40,
-		"attackSound": "shot"
+		"uniques": ["[-20]% Strength <when below [10] [Happiness]>","[-100]% maintenance costs"]
+	}
+	{
+		"name": "Hunters",
+		"unitType": "Infantry",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 3,
+		"range": 1,
+		"cost": 42,
+		"uniques": ["[-20]% Strength <when below [10] [Happiness]>","[-100]% maintenance costs"]
 	}
 ]
