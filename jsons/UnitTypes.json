@@ -17,9 +17,14 @@
         "movementType": "Land"
     }
     {
+        "name": "Archers",
+        "movementType": "Land"
+        "uniques": ["[130]% Strength <vs [Swords] [Spears] units> <when attacking>","[70]% Strength <vs [Can move after attacking] units>"]
+    }
+    {
         "name": "Handguns",
         "movementType": "Land"
-        "uniques": ["Must set up to ranged attack"]
+        "uniques": ["Must set up to ranged attack","[150]% Strength <vs [Swords] [Spears] [Can move after attacking] units> <when attacking>","[75]% Strength <vs [Can move after attacking] units> <when defending>"]
     }
     {
         "name": "Siege",
