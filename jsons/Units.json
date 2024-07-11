@@ -63,7 +63,7 @@
 		"unitType": "Archers",
 		"movement": 1,
 		"strength": 3,
-		"rangedStrength": 6,
+		"rangedStrength": 7,
 		"range": 1,
 		"cost": 55,
 		"uniques": [""]
