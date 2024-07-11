@@ -58,4 +58,26 @@
 		"uniques": [""]
 		"requiredTech": "Metalworking I",
 	}
+	{
+		"name": "Bowmen",
+		"unitType": "Archers",
+		"movement": 1,
+		"strength": 3,
+		"rangedStrength": 6,
+		"range": 1,
+		"cost": 55,
+		"uniques": [""]
+		"requiredTech": "Agriculture II",
+	}
+	{
+		"name": "Crossbowmen",
+		"unitType": "Archers",
+		"movement": 1,
+		"strength": 4,
+		"rangedStrength": 9,
+		"range": 1,
+		"cost": 68,
+		"uniques": [""]
+		"requiredTech": "Agriculture II",
+	}
 ]
