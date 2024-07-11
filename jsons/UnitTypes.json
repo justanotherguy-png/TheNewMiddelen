@@ -10,6 +10,7 @@
     {
         "name": "Spears",
         "movementType": "Land"
+        "uniques": ["[120]% Strength <when defending>"]
     }
     {
         "name": "Missiles",
@@ -22,22 +23,27 @@
     {
         "name": "Handguns",
         "movementType": "Land"
+        "uniques": ["Must set up to ranged attack"]
     }
     {
         "name": "Siege",
         "movementType": "Land"
+        "uniques": ["Must set up to ranged attack"]
     }
     {
         "name": "Mounted Melee",
         "movementType": "Land"
+        "uniques": ["Can move after attacking"]
     }
     {
         "name": "Mounted Bows",
         "movementType": "Land"
+        "uniques": ["Can move after attacking"]
     }
     {
         "name": "Mounted Missiles",
         "movementType": "Land"
+        "uniques": ["Can move after attacking"]
     }
     
 ]
