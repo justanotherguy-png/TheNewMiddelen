@@ -29,4 +29,33 @@
 		"cost": 42,
 		"uniques": ["[-20]% Strength <when below [10] [Happiness]>","[-100]% maintenance costs"]
 	}
+	{
+		"name": "Slingers",
+		"unitType": "Missiles",
+		"movement": 1,
+		"strength": 3,
+		"rangedStrength": 7,
+		"range": 1,
+		"cost": 50,
+		"uniques": [""]
+		"requiredTech": "Agriculture I",
+	}
+	{
+		"name": "Swordsmen",
+		"unitType": "Swords",
+		"movement": 1,
+		"strength": 12,
+		"cost": 64,
+		"uniques": [""]
+		"requiredTech": "Metalworking I",
+	}
+	{
+		"name": "Spearmen",
+		"unitType": "Spears",
+		"movement": 1,
+		"strength": 9,
+		"cost": 60,
+		"uniques": [""]
+		"requiredTech": "Metalworking I",
+	}
 ]
