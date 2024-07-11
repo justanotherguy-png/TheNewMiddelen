@@ -17,10 +17,6 @@
         "movementType": "Land"
     }
     {
-        "name": "Bows",
-        "movementType": "Land"
-    }
-    {
         "name": "Handguns",
         "movementType": "Land"
         "uniques": ["Must set up to ranged attack"]
@@ -36,14 +32,8 @@
         "uniques": ["Can move after attacking"]
     }
     {
-        "name": "Mounted Bows",
-        "movementType": "Land"
-        "uniques": ["Can move after attacking"]
-    }
-    {
         "name": "Mounted Missiles",
         "movementType": "Land"
         "uniques": ["Can move after attacking"]
-    }
-    
+    }    
 ]
