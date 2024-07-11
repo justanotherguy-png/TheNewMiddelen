@@ -15,7 +15,7 @@
 	}
 	{
 		"name": "Hunters",
-		"unitType": "Bows",
+		"unitType": "Missiles",
 		"movement": 1,
 		"strength": 1,
 		"rangedStrength": 3,
