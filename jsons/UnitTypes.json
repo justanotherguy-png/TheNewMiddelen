@@ -40,5 +40,10 @@
         "name": "Mounted Missiles",
         "movementType": "Land"
         "uniques": ["Can move after attacking"]
-    }    
+    }
+    {
+        "name": "Mounted Archers",
+        "movementType": "Land"
+        "uniques": ["[130]% Strength <vs [Swords] [Spears] units> <when attacking>","[70]% Strength <vs [Can move after attacking] units>","Can move after attacking"]
+    }
 ]
