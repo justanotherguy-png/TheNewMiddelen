@@ -7,7 +7,7 @@
     },
 	{
 		"name": "Militia Guard",
-		"unitType": "Infantry",
+		"unitType": "Swords",
 		"movement": 1,
 		"strength": 4,
 		"cost": 40,
@@ -15,7 +15,7 @@
 	}
 	{
 		"name": "Hunters",
-		"unitType": "Infantry",
+		"unitType": "Bows",
 		"movement": 1,
 		"strength": 1,
 		"rangedStrength": 3,
