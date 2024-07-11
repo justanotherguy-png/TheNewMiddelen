@@ -28,16 +28,16 @@
 				"quote": "An improvement in building & construction."
 			},
 			{
-				"name": "Farming I",
+				"name": "Agriculture I",
 				"row": 3,
 				"prerequisites": ["Settlement"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
-				"name": "Hunting I",
+				"name": "Religion I",
 				"row": 5,
 				"prerequisites": ["Settlement"],
-				"quote": "An improvement in hunting & trapping methods."
+				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking I",
@@ -75,16 +75,16 @@
 				"quote": "An improvement in building & construction."
 			},
 			{
-				"name": "Farming II",
+				"name": "Agriculture II",
 				"row": 3,
 				"prerequisites": ["Settlement"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
-				"name": "Hunting II",
+				"name": "Religion II",
 				"row": 5,
 				"prerequisites": ["Settlement"],
-				"quote": "An improvement in hunting & trapping methods."
+				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking II",
@@ -122,16 +122,16 @@
 				"quote": "An improvement in building & construction."
 			},
 			{
-				"name": "Farming III",
+				"name": "Agriculture III",
 				"row": 3,
 				"prerequisites": ["Settlement"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
-				"name": "Hunting III",
+				"name": "Religion III",
 				"row": 5,
 				"prerequisites": ["Settlement"],
-				"quote": "An improvement in hunting & trapping methods."
+				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking III",
@@ -169,16 +169,16 @@
 				"quote": "An improvement in building & construction."
 			},
 			{
-				"name": "Farming IV",
+				"name": "Agriculture IV",
 				"row": 3,
 				"prerequisites": ["Settlement"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
-				"name": "Hunting IV",
+				"name": "Religion IV",
 				"row": 5,
 				"prerequisites": ["Settlement"],
-				"quote": "An improvement in hunting & trapping methods."
+				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking IV",
@@ -216,16 +216,16 @@
 				"quote": "An improvement in building & construction."
 			},
 			{
-				"name": "Farming V",
+				"name": "Agriculture V",
 				"row": 3,
 				"prerequisites": ["Settlement"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
-				"name": "Hunting V",
+				"name": "Religion V",
 				"row": 5,
 				"prerequisites": ["Settlement"],
-				"quote": "An improvement in hunting & trapping methods."
+				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking V",
@@ -241,6 +241,147 @@
 			}
       {
 				"name": "Organization V",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "Settlement Era",
+		"techCost": 485,
+		"buildingCost": 160,
+		"wonderCost": 400,
+		"techs": [
+			{
+				"name": "Building VI",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Agriculture VI",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Religion VI",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in religion & belief in the supernatural."
+			},
+			{
+				"name": "Metalworking VI",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring VI",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization VI",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "Settlement Era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Building VII",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Agriculture VII",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Religion VII",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in religion & belief in the supernatural."
+			},
+			{
+				"name": "Metalworking VII",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring VII",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization VII",
+				"row": 12,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in society & the quality of life."
+			}
+
+
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "Settlement Era",
+		"techCost": 1150,
+		"buildingCost": 250,
+		"wonderCost": 625,
+		"techs": [
+			{
+				"name": "Building VIII",
+				"row": 1,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in building & construction."
+			},
+			{
+				"name": "Agriculture VIII",
+				"row": 3,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in agricultural practices."
+			},
+			{
+				"name": "Religion VIII",
+				"row": 5,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in religion & belief in the supernatural."
+			},
+			{
+				"name": "Metalworking VIII",
+				"row": 7,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in the extraction & shaping of metal."
+			}
+      {
+				"name": "Seafaring VIII",
+				"row": 9,
+				"prerequisites": ["Settlement"],
+				"quote": "An improvement in knowledge of the seas."
+			}
+      {
+				"name": "Organization VIII",
 				"row": 12,
 				"prerequisites": ["Settlement"],
 				"quote": "An improvement in society & the quality of life."
