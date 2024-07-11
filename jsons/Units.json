@@ -9,7 +9,7 @@
         "name": "Merchants",
         "unitType": "Civilian",
         "movement": 2,
-        "uniques": ["<by consuming this unit>"]
+        "uniques": ["Gain [1]-[20] [Gold] <by consuming this unit> <in [in non-enemy foreign cities] cities>"]
     },
 	{
 		"name": "Militia Guard",
