@@ -71,37 +71,37 @@
 			{
 				"name": "Building II",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building I"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture II",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture I"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion II",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion I"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking II",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Metalworking I"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring II",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring I"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization II",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization I"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
@@ -118,37 +118,37 @@
 			{
 				"name": "Building III",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building II"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture III",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture II"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion III",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion II"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking III",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Metalworking II"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring III",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring II"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization III",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization II"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
@@ -165,37 +165,37 @@
 			{
 				"name": "Building IV",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building III"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture IV",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture III"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion IV",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion III"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking IV",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Metalworking III"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring IV",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring III"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization IV",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization III"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
@@ -212,37 +212,37 @@
 			{
 				"name": "Building V",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building IV"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture V",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture IV"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion V",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion IV"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking V",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion IV"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring V",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring IV"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization V",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization IV"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
@@ -259,37 +259,37 @@
 			{
 				"name": "Building VI",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building V"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture VI",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture V"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion VI",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion V"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking VI",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Metalworking V"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring VI",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring V"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization VI",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization V"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
@@ -306,37 +306,37 @@
 			{
 				"name": "Building VII",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building VI"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture VII",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture VI"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion VII",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion VI"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking VII",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Metalworking VI"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring VII",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring VI"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization VII",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization VI"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
@@ -353,37 +353,37 @@
 			{
 				"name": "Building VIII",
 				"row": 1,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Building VII"],
 				"quote": "An improvement in building & construction."
 			},
 			{
 				"name": "Agriculture VIII",
 				"row": 3,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Agriculture VII"],
 				"quote": "An improvement in agricultural practices."
 			},
 			{
 				"name": "Religion VIII",
 				"row": 5,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Religion VII"],
 				"quote": "An improvement in religion & belief in the supernatural."
 			},
 			{
 				"name": "Metalworking VIII",
 				"row": 7,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Metalworking VII"],
 				"quote": "An improvement in the extraction & shaping of metal."
 			}
       {
 				"name": "Seafaring VIII",
 				"row": 9,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Seafaring VII"],
 				"quote": "An improvement in knowledge of the seas."
 			}
       {
 				"name": "Organization VIII",
 				"row": 12,
-				"prerequisites": ["Settlement"],
+				"prerequisites": ["Organization VII"],
 				"quote": "An improvement in society & the quality of life."
 			}
 
