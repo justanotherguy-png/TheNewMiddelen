@@ -82,7 +82,7 @@
 	}
 	{
 		"name": "Handgunners",
-		"unitType": "Gunners",
+		"unitType": "Handguns",
 		"movement": 1,
 		"strength": 5,
 		"rangedStrength": 12,
