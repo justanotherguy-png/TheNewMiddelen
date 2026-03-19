@@ -1,41 +1,41 @@
 [
     {
-		"name": "Chiefdom",
-		"leaderName": "Kein",
+		"name": "Mindian",
+		"leaderName": "King Kalenu",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text.",
 		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
-		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
+		"attacked": "You dare have the courage to challenge us, but no fear, for I will sweep you out of history.",
 		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
 		"introduction": "If I am cut, Do I not bleed?",
-		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"tradeRequest": "A generous proposition, no?",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"uniqueName": "Pagans",
+		"uniqueName": "Imperials",
 		"uniques": [],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+		"cities": ["Tetuitl","Erakurn","Hraun","Geirhildarvatn","Dumshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	},
 
 	{
-		"name": "The New Movement",
-		"leaderName": "Anton Slavik",
+		"name": "Shanduvoira",
+		"leaderName": "Erudar",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text",
-		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
-		"attacked": "Pitiful fool! Now we shall destroy you!",
-		"defeated": "I see for the black hand has been unworthy to serve Kane.",
+		"declaringWar": "Villain! You will be destroyed from this world, as the gods have decided.",
+		"attacked": "You fool, what will your children think of you when we grind your cities to dust?",
+		"defeated": "If this is the will of the gods, then may their will be carried out.",
 		"introduction": "If you would stay out of our way then you might live to tell your tale.",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Purification",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"uniques": [],
+		"cities": ["Alundar","Mernakum","Aundim","Geilandur","Dulondaf","Leiolsof","Haunsas","Moldafel","Senangot","Elu Darnar","Salayir",
+"Horga Etnir","Belatum","Kalbenir","Ranasof","Bolstaor","Beruvir","Berghylr","Rauosgil"]
 	}
 ]
