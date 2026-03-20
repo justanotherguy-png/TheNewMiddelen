@@ -15,12 +15,32 @@
 		"innerColor": [142,22,0],
 		"uniqueName": "Imperials",
 		"uniques": [],
-		"cities": ["Tetuitl","Erakurn","Hraun","Geirhildarvatn","Dumshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"cities": ["Tetuitl","Erakul","Lanutal","Arankys","Bangeshad","Qelodafin","Vodasym","Molrdal","Neladeurn","Hamagur","Selair",
+"Degaff","Fesharri","Kalatul","Obenas","Medaslim","Danatol","Ragosil","Celfantan"]
 	},
 
 	{
-		"name": "Shanduvoira",
+		"name": "Lanatun-Felak",
+		"leaderName": "Erudar",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text",
+		"declaringWar": "Villain! You will be destroyed from this world, as the gods have decided.",
+		"attacked": "You fool, what will your children think of you when we grind your cities to dust?",
+		"defeated": "If this is the will of the gods, then may their will be carried out.",
+		"introduction": "If you would stay out of our way then you might live to tell your tale.",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Purification",
+		"uniques": [],
+		"cities": ["Alundar","Mernakum","Aundim","Geilandur","Dulondaf","Leiolsof","Haunsas","Moldafel","Senangot","Elu Darnar","Salayir",
+"Horga Etnir","Belatum","Kalbenir","Ranasof","Bolstaor","Beruvir","Berghylr","Rauosgil"]
+	},
+
+{
+		"name": "",
 		"leaderName": "Erudar",
 		"preferredVictoryType": "Domination",
 
