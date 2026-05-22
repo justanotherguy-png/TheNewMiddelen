@@ -4,46 +4,32 @@
         "movementType": "Land"
     },
     {
-        "name": "Swords",
+        "name": "Melee",
         "movementType": "Land"
-    }
-    {
-        "name": "Spears",
-        "movementType": "Land"
-        "uniques": ["[120]% Strength <when defending>"]
     }
     {
         "name": "Missiles",
         "movementType": "Land"
     }
     {
-        "name": "Archers",
-        "movementType": "Land"
-        "uniques": ["[130]% Strength <vs [Swords] [Spears] units> <when attacking>","[70]% Strength <vs [Can move after attacking] units>"]
-    }
-    {
-        "name": "Handguns",
+        "name": "Firearms",
         "movementType": "Land"
         "uniques": ["Must set up to ranged attack","[150]% Strength <vs [Swords] [Spears] [Can move after attacking] units> <when attacking>","[75]% Strength <vs [Can move after attacking] units> <when defending>"]
     }
     {
-        "name": "Siege",
+        "name": "Artillery",
         "movementType": "Land"
         "uniques": ["Must set up to ranged attack","[+50]% Strength <vs cities>"]
     }
     {
-        "name": "Mounted Melee",
+        "name": "Light Cavalry",
         "movementType": "Land"
         "uniques": ["Can move after attacking"]
     }
     {
-        "name": "Mounted Missiles",
+        "name": "Heavy Cavalry",
         "movementType": "Land"
-        "uniques": ["Can move after attacking"]
+        "uniques": ["[150]% Strength <vs [Melee][Missiles][Firearms][Artillery] units>"]
     }
-    {
-        "name": "Mounted Archers",
-        "movementType": "Land"
-        "uniques": ["[130]% Strength <vs [Swords] [Spears] units> <when attacking>","[70]% Strength <vs [Can move after attacking] units>","Can move after attacking"]
-    }
+    
 ]
