@@ -28,12 +28,12 @@
 		"startIntroPart2": "Sample text",
 		"declaringWar": "Villain! You will be destroyed from this world, as the gods have decided.",
 		"attacked": "You fool, what will your children think of you when we grind your cities to dust?",
-		"defeated": "If this is the will of the gods, then may their will be carried out.",
+		"defeated": "If this is truly the will of the gods, then may it be carried out.",
 		"introduction": "If you would stay out of our way then you might live to tell your tale.",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
-		"uniqueName": "Purification",
+		"uniqueName": "Northerners",
 		"uniques": [],
 		"cities": ["Alundar","Mernakum","Aundim","Geilandur","Dulondaf","Leiolsof","Haunsas","Moldafel","Senangot","Elu Darnar","Salayir",
 "Horga Etnir","Belatum","Kalbenir","Ranasof","Bolstaor","Beruvir","Berghylr","Rauosgil"]
@@ -41,21 +41,21 @@
 
 {
 		"name": "",
-		"leaderName": "Erudar",
+		"leaderName": "Er",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text",
-		"declaringWar": "Villain! You will be destroyed from this world, as the gods have decided.",
-		"attacked": "You fool, what will your children think of you when we grind your cities to dust?",
+		"declaringWar": "It is for your sins that we must do this.",
+		"attacked": "Then so it shall be.",
 		"defeated": "If this is the will of the gods, then may their will be carried out.",
 		"introduction": "If you would stay out of our way then you might live to tell your tale.",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
-		"uniqueName": "Purification",
+		"uniqueName": "Coastal Peoples",
 		"uniques": [],
-		"cities": ["Alundar","Mernakum","Aundim","Geilandur","Dulondaf","Leiolsof","Haunsas","Moldafel","Senangot","Elu Darnar","Salayir",
-"Horga Etnir","Belatum","Kalbenir","Ranasof","Bolstaor","Beruvir","Berghylr","Rauosgil"]
+		"cities": ["S'Alundar","S'Mernakum","S'Aundim","S'Geilandur","S'Dulondaf","S'Leiolsof","S'Haunsas","S'Moldafel","S'Senangot","S'Elu Darnar","S'Salayir",
+"S'Horga Etnir","S'Belatum","S'Kalbenir","S'Ranasof","S'Bolstaor","S'Beruvir","S'Berghylr","S'Rauosgil"]
 	}
 ]
